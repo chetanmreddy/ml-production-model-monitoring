@@ -1,4 +1,4 @@
-## In this project I try to answer the question "How do you do ml model monitoring?, How do you figure out when it is time to retrain our models?"
+## In this project I try to answer the question "How do you do ml model monitoring in production?, How do you figure out when it is time to retrain our models?"
 
 Related blog post: [LINK](https://medium.com/p/e13ddfe142de)
 
