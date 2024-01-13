@@ -15,6 +15,8 @@ Follow these steps:
 
 5) Checkout my project dashboard here https://wandb.ai/roadrunner/Unet_process
 
+6) test line
+
 ![Screenshot from 2021-05-28 12-57-16](https://user-images.githubusercontent.com/18630132/120037666-d9905500-bfb6-11eb-861b-67e238ebe679.png)
 
 ![Screenshot from 2021-05-28 12-57-45](https://user-images.githubusercontent.com/18630132/120037687-df863600-bfb6-11eb-8352-dd3c36b888b3.png)
